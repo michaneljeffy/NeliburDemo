@@ -1,0 +1,6 @@
+packages/
+.vs/
+NeliburDemo/obj/
+NeliburDemo/bin/
+NeliburDemo.Client/obj/
+NeliburDemo.Client/bin/
